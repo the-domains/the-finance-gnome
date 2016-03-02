@@ -1,0 +1,28 @@
+name: The Finance Gnome
+favicon: null
+layout_spectrum: 0.23944996646605432
+typography_spectrum: 0.3219630680978298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2500512048136443
+  lightness: 0.1762411342933774
+  saturation: 0.4852148937061429
+  rhythmicContrast: 0.36883349856361747
+purpose: []
